@@ -29,3 +29,5 @@ func mod(a int, b int) int {
 func pow(a int, b int) int {
 	return a ^ b
 }
+
+// created by marcelo
