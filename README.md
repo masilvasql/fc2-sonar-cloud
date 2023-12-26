@@ -1,0 +1,1 @@
+Comando para gerar arquivo de saída do teste em Go -> go test -coverprofile=coverage.out 
